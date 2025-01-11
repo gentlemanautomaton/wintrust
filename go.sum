@@ -1,4 +1,4 @@
-github.com/gentlemanautomaton/winguid v0.0.0-20220427170015-dca4ed96ff1e h1:Rqegg26JRg2GJNvtYEW3Kf3IdLgiDiunY1tku2guLmA=
-github.com/gentlemanautomaton/winguid v0.0.0-20220427170015-dca4ed96ff1e/go.mod h1:hiMd8D+YuuQPw7s3OFmd/kxyuMTrSNEjCSC3r6AGjV4=
-golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab h1:2QkjZIsXupsJbJIdSjjUOgWK3aEtzyuh2mPt3l/CkeU=
-golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+github.com/gentlemanautomaton/winguid v0.0.0-20250111215943-3810dd3d28de h1:RTG3Sqr7hIYAxDCwX/5LYz/eqLnJygp6kzlZKl/GH6w=
+github.com/gentlemanautomaton/winguid v0.0.0-20250111215943-3810dd3d28de/go.mod h1:S4tzhGOIDoZw06+wJ3YhFnA4LR9HyZyGNRXb/F9WH50=
+golang.org/x/sys v0.29.0 h1:TPYlXGxvx1MGTn2GiZDhnjPA9wZzZeGKHHmKhHYvgaU=
+golang.org/x/sys v0.29.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
